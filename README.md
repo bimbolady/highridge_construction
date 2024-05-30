@@ -24,3 +24,6 @@ This project contains scripts for processing weekly payments for workers at High
 
 ## Error Handling
 Both scripts include basic exception handling to manage potential errors during the processing of payment slips.
+
+## Author
+Abimbola Serifat Oreoluwa.
